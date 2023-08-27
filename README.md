@@ -75,12 +75,12 @@ Both code uses `quadCopter()` class for running a closed loop control, where fee
 
 Proper documentation of all the classes and methods related to task 2 is provided below.
 
-[Task2 documentation](https://github.com/aman765m/Inter_IIT_23_task2_team27/blob/master/Task2_code_documentation.pdf)
+[Task2 documentation](https://github.com/rajsurya1012/InterIIT2023Task2/blob/main/Task2_code_documentation.pdf)
 
 For the documentation of socket communication and MSP (Multiwii Serial Protocol), follow the link below.
 
-[Task1 documentation](https://github.com/aman765m/Inter_IIT_23_task1_team27/blob/master/Task1_code_documentation.pdf)
+[Task1 documentation](https://github.com/rajsurya1012/InterIIT2023Task1/blob/main/Task1_code_documentation.pdf)
 
 Link for report 
-[Task 1 and 2 Report](https://github.com/aman765m/Inter_IIT_23_task2_team27/blob/master/Interiit23_report.pdf)
+[Task 1 and 2 Report](https://github.com/rajsurya1012/InterIIT2023Task2/blob/main/Interiit23_report.pdf)
 
